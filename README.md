@@ -1,1 +1,1 @@
-# Class_App
+# 🎓 Class Management System
